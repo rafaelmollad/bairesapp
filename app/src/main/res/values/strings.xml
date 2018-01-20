@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">Baires App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_places">PlacesActivity</string>
+    <!-- TABS STRINGS -->
+    <!-- Attractions tab -->
+    <string name="attractions">Attractions</string>
+    <!-- Night tab -->
+    <string name="night">Night</string>
+    <!-- Phrases tab -->
+    <string name="phrases">Phrases</string>
+    <!-- NAME OF PLACES -->
+    <!-- Place name for La boca -->
+    <string name="name_la_boca">La Boca</string>
+    <!-- Place name for Palermo -->
+    <string name="name_palermo">Palermo</string>
+    <!-- Place name for The National Museum of Fine Arts-->
+    <string name="name_national_museum">MNBA</string>
+    <!-- Place name for Corrientes Avenue -->
+    <string name="name_corrientes">Corrientes Avenue</string>
+    <!-- Place name for Recoleta Cementery -->
+    <string name="name_recoleta_cementery">Recoleta Cementery</string>
+    <!-- Place name for Japanese Garden -->
+    <string name="name_japanese_cementery">Japanese Garden</string>
+    <!-- Place name for MALBA -->
+    <string name="name_malba">MALBA</string>
+    <!-- Place name for Rose Garden Walk -->
+    <string name="name_rose_garden_walk">Rose Garden Walk</string>
+    <!-- Place name for San Telmo -->
+    <string name="name_san_telmo">San Telmo</string>
+    <!-- Place name for Colón Theater -->
+    <string name="name_colon_theater">Colón Theater</string>
+    <!-- Place name for El Zanjón de Granados -->
+    <string name="name_zajon_granados">El Zanjón de Granados</string>
+    <!-- Place name for Puerto Madero -->
+    <string name="puerto_madero">Puerto Madero</string>
+    <!-- TYPE OF PLACES -->
+    <string name="type_neighborhood">Neighborhood</string>
+    <string name="type_museum">Museum</string>
+    <string name="type_avenue">Avenue</string>
+    <string name="type_cementery">Cementery</string>
+    <string name="type_garden">Garden</string>
+    <string name="type_theater">Theater</string>
+    <!-- DESCRIPTION OF EACH PLACE -->
+    <string name="description_la_boca">La Boca is a neighborhood, or barrio of the Argentine capital, Buenos Aires.
+        It retains a strong European flavour, with many of its early settlers being from the Italian city of Genoa.</string>
+    <string name="description_palermo">Palermo is a neighborhood, or barrio of the Argentine capital, Buenos Aires. It is located in the northeast of the city.
+        It is the largest neighborhood in Buenos Aires.
+    </string>
+    <string name="description_national_museum">El Museo Nacional de Bellas Artes (MNBA)
+        ("National Museum of Fine Arts") is an Argentine art museum in Buenos Aires, located in the Recoleta section of the city</string>
+    <string name="description_corrientes_avenue">It\'s one of the principal thoroughfares of the Argentine capital of Buenos Aires.
+        The street is intimately tied to the tango and the porteño sense of identity.</string>
+    <string name="description_recoleta_cemenetery">It\'s a cemetery located in the Recoleta neighbourhood of Buenos Aires, Argentina.
+        It contains the graves of notable people, including Eva Perón, presidents of Argentina, Nobel Prize winners, the founder of the Argentine Navy, and a granddaughter of Napoleon.
+        In 2011, the BBC hailed it as one of the world\'s best cemeteries, and in 2013, CNN listed it among the 10 most beautiful cemeteries in the world.</string>
+    <string name="description_japanese_garden">The Buenos Aires Japanese Gardens (Spanish: Jardín Japonés de Buenos Aires; Japanese: ブエノスアイレス日本庭園) are a public space administered by the non-profit Japanese Argentine Cultural Foundation in Buenos Aires,
+        Argentina, and are one of the largest Japanese gardens of its type in the world outside Japan.</string>
+    <string name="description_malba">The Latin American Art Museum of Buenos Aires (Spanish: Museo de Arte Latinoamericano de Buenos Aires, MALBA) is a museum located on Figueroa Alcorta Avenue,
+        in the Palermo section of Buenos Aires.</string>
+    <string name="description_rose_garden_walk">The Paseo del Rosedal or Rose Garden Walk is a fantastic rose garden in the heart of the Parque Tres de Febrero.
+        It is easily the most popular of all attractions within the Parque Tres de Febrero and has a very scenic location.
+        The Paseo del Rosedal was designed by Charles Thays in 1914. Spread across 34,000 square meters, this rose garden has over 5000 of rose species.
+        Today there are more than 14,600 rose bushes in this park.</string>
+    <string name="description_san_telmo">San Telmo is the oldest barrio (neighborhood) of Buenos Aires, Argentina.
+        It is a well-preserved area of the Argentine metropolis and is characterized by its colonial buildings.
+        Cafes, tango parlors and antique shops line the cobblestone streets, which are often filled with artists and dancers.
+        San Telmo\'s attractions include old churches (e.g. San Pedro Telmo), museums, antique stores and a semi-permanent antique fair (Feria de Antigüedades) in the main public square, Plaza Dorrego.
+        Tango-related activities for both locals and tourists are in the area.
+    </string>
+    <string name="description_colon_theater">The Teatro Colón (Spanish: Columbus Theatre) is the main opera house in Buenos Aires, Argentina.
+        It is ranked the third best opera house in the world by National Geographic, and is acoustically considered to be amongst the five best concert venues in the world.</string>
+    <string name="description_zanjon_granados">A voyage into the origins of Buenos Aires.
+        A magical space where poetry, history and myth coexist. The most important urban archaeology project in the city. </string>
+    <string name="description_puerto_madero">Puerto Madero, also known within the urban planning community as the Puerto Madero Waterfront, is a barrio (district) of the Argentine capital at Buenos Aires CBD,
+        occupying a significant portion of the Río de la Plata riverbank and representing the latest architectural trends in the city of Buenos Aires.</string>
+    <!-- NAME OF NIGHT PLACES -->
+    <string name="name_amerika">Amerika</string>
+    <string name="name_apple">Apple</string>
+    <string name="name_barfly">Barfly</string>
+    <string name="name_club_bahrein">Club Bahrein</string>
+    <string name="name_crobar">Crobar</string>
+    <string name="name_esperanto">Esperanto</string>
+    <string name="name_niceto_club">Niceto Club</string>
+    <string name="name_porto_soho">Porto Soho</string>
+    <string name="name_vita">VITA</string>
+    <string name="name_honduras_hollywood">Honduras Hollywood</string>
+    <!-- TYPE OF NIGHT PLACES -->
+    <string name="type_night_club">Night Club</string>
+    <string name="type_lgbt_night_club">LGBT Night Club</string>
+    <!-- DESCRIPTION OF NIGHT PLACES -->
+    <string name="description_amerika">Amerika is an Argentine LGBT nightclub, considered to be one of the largest in Latin America.
+        It\'s located in the Almagro neighborhood and is one of the most popular LGBT disco\'s in Buenos Aires.
+        Amerika is located on 1040 Gascón Street, in the neighborhood of Almagro, Buenos Aires. It has three dance floors: Continental, Caribbean and Crystal and has capacity for 1866 people.
+        It works only on Thursdays, Fridays, Saturdays and Sundays.</string>
+    <string name="description_apple">Apple is the most popular night club of federal capital,
+        it\'s the only night club that every night ensures you the greatest amount and quality in the environment.
+        The best updated music, the best modern lighting and the best fun for your demanding friends.
+        All our nights we offer a complete program with the best parties, different events, music and modern atmosphere only for a select and demanding audience, in search of different nights.
+        Apple has opened its doors since 2009, and to this day the most successful and demanding album of the moment in Buenos Aires, federal capital.</string>
+    <string name="description_barfly">In Barfly Beat the nights have a touch of the best rock and explode with the cachengue of the moment.
+        With a rocker wave, this early night club, offers a different proposal to beat the weekend.</string>
+    <string name="description_club_bahrein">A proposal of night entertainment with international level.
+        National and international music shows. Excellence in drinks prepared by our professional bartenders.
+        A surprising architecture; an incredible sound; super modern lighting, 3 spaces and a single idea: Enjoy a magnificent night!
+        Located in the heart of downtown Buenos Aires, in an old banking building of 1904, Bahrain BA proposes in its 2000 m2 of thought and decorated infrastructure, first class experiences that provide the national and international public with nights to remember.</string>
+    <string name="description_crobar">Located in the heart of Palermo, Crobar offers spaces designed to meet the demands of the market.
+        Crobar stands out for its ambience, quality, warm and modern, as well as for the spaciousness and comfort of its spaces.</string>
+    <string name="description_esperanto">Esperanto is a night club that for years is positioned in the environment for its variety of services and excellent customer service.
+        All kinds of events are held in our 800 m2 premises. From birthdays and bachelor parties, to corporate and press events.
+        A totally versatile structure that allows us to adapt to each type of event, with a variety of menus and cocktails.</string>
+    <string name="description_niceto_club">Since its opening in July 1998, Niceto Club immediately emerged as the musical reference par excellence in the Palermo area.
+        Today it is consolidated as the only space in Buenos Aires night capable of bringing together such diverse styles, artists and audiences.
+        A wide variety of local and international artists usually parade through its stage and booth, while on its two tracks it offers parties with musical orientations that include pop, rock, reggae, hip hop, electronica, tango, soul, funk and more &#8230;</string>
+    <string name="description_porto_soho">Porto Soho is a night club located on Av. Scalabrini Ortiz 1429, between Honduras and Gorriti.
+        Palermo Soho. It has capacity enabled for 600 people. The vast majority of people attending is due to birthdays or semi-private parties, our intention is to create a really fun climate and there is no problem, that is why the prices of the entrance and the bar are accessible.
+        Class "C" Dance Hall with capacity enabled by the Government for 594 people.</string>
+    <string name="description_vita">Located in the heart of the Buenos Aires neighborhood of Palermo, VITA brings us an innovative and different proposal at night in Buenos Aires.
+        With the highest signature cocktails, the most refined gastronomy, and an environment designed for the most exclusive public, Vita adapts to the highest standards of demand of a meticulous and perfectionist public.
+        VITA Buenos Aires was born from the inspiration of the most refined and categorical restaurants, bars and clubs in New York, London and Miami, among which the W Hotel Miami, SLS Hotel Miami, Hudson Hotel NY, stand out for their high design and exclusivity.
+        Hakkasan restaurant, Cipriani Bar Soho NY and Sanderson Hotel in London among others.</string>
+    <string name="description_honduras_hollywood">We created a space with a structure designed for social, corporate and personalized events.
+        We also offer a restaurant, cocktail and social club service to come and spend a different night.</string>
+    <!-- PHRASES IN PHRASES CATEGORY -->
+    <!-- Good morning -->
+    <string name="good_morning">Good morning!</string>
+    <string name="buenos_dias">¡Buenos dias!</string>
+    <!-- Good afternoon -->
+    <string name="good_afternoon">Good afternoon!</string>
+    <string name="buenas_tardes">¡Buenas tardes!</string>
+    <!-- Good evening -->
+    <string name="good_evening">Good evening!</string>
+    <string name="buenas_noches">¡Buenas noches!</string>
+    <!-- How are you? -->
+    <string name="how_are_you">How are you?</string>
+    <string name="como_estas">¿Cómo estás?</string>
+    <!-- Fine, thank you, and you? -->
+    <string name="fine_thank_you">Fine, thank you, and you?</string>
+    <string name="bien_gracias">Bien, gracias, y vos?</string>
+    <!-- I don't understand -->
+    <string name="dont_understand">I don\'t understand</string>
+    <string name="no_entiendo">No entiendo</string>
+    <!-- Sorry -->
+    <string name="sorry">Sorry</string>
+    <string name="perdon">Perdón</string>
+    <!-- Goodbye -->
+    <string name="goodbye">Goodbye</string>
+    <string name="adios">Adiós</string>
+</resources>

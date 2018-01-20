@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Baires App</string>
+    <string name="name_corrientes">Avenida Corrientes</string>
+    <string name="name_recoleta_cementery">Cementerio de Recoleta</string>
+    <string name="name_japanese_cementery">Jardín Japonés</string>
+    <string name="name_rose_garden_walk">Rosedal de Palermo</string>
+    <string name="name_colon_theater">Teatro Colón</string>
+    <string name="type_la_boca">Barrio</string>
+    <string name="type_palermo">Barrio</string>
+    <string name="type_national_museum">Museo</string>
+    <string name="type_corrientes_avenue">Avenida</string>
+    <string name="type_recoleta_cementery">Cementerio</string>
+    <string name="type_japanese_garden">Jardín</string>
+    <string name="type_malba">Museo</string>
+    <string name="type_rose_garden_walk">Jardín</string>
+    <string name="type_san_telmo">Barrio</string>
+    <string name="type_colon_theater">Teatro</string>
+    <string name="type_zanjon_granados">Museo</string>
+    <string name="type_puerto_madero">Barrio</string>
+    <string name="description_la_boca">La Boca es un barrio de Buenos Aires (Capital Federal), en Argentina. Está situado en el límite sudeste de la ciudad. Su nombre se debe a que se ubica en la desembocadura del Riachuelo en el Río de la Plata. Entre otras razones, el barrio es conocido por albergar el famoso estadio de Boca Juniors, \"La Bombonera\".</string>
+    <string name="description_palermo">Palermo es uno de los 48 barrios en los que se encuentra dividida la Ciudad Autónoma de Buenos Aires.
+        Es un barrio fundamentalmente residencial y de esparcimiento.
+        Gran parte de su extensión está ocupada por los denominados Bosques de Palermo, que incluyen una sumatoria de varios parques y espacios verdes.
+        También es un importante polo gastronómico, cultural y audiovisual. Dado el dinamismo del barrio, existen varios \"sub-barrios\" no oficiales
+        determinados por el tipo de actividad que se realiza en esa zona.
+        Las denominaciones están dadas por el uso cotidiano, e incluyen -a modo de ejemplo- a Palermo Soho (polo gastronómico/cultural)
+        y Palermo Hollywood (polo audivisual).
+        Asimismo, su edificación se destaca por la combinación de los estilos gótico y barroco, y es uno de los principales focos de turismo de la Ciudad.</string>
+    <string name="description_corrientes_avenue">La avenida Corrientes es el eje de la vida nocturna y bohemia de la Ciudad de Buenos Aires.
+        En sus bares y teatros se acuñó el tango, y a lo largo de su historia lo interpretaron en ellos las grandes orquestas y cantores,
+        entre ellos el ídolo popular Carlos Gardel, quien vivió a su vera.
+        Sus desaparecidos teatros Politeama Argentino, Apolo, Odeón y el viejo Ópera, fueron escenario de los más altos exponentes de la lírica mundial,
+        así como del nacimiento del considerado teatro nacional: el drama gauchesco Juan Moreira.</string>
+    <string name="description_recoleta_cemenetery">El Cementerio de la Recoleta es un famoso cementerio ubicado en el distinguido barrio de la Recoleta de
+        la Ciudad Autónoma de Buenos Aires, Argentina, diseñado por Próspero Catelin1​ y en donde se encuentran sepultadas el mayor número de personalidades del país.</string>
+    <string name="description_japanese_garden">El Jardín japonés de Buenos Aires es un jardín japonés argentino ubicado en el Parque Tres de Febrero del barrio de Palermo,
+        ciudad de Buenos Aires.
+        Se construyó con el aporte y esfuerzo de la Colectividad Japonesa en el año 1967, como testimonio de la primera visita a la Argentina de un
+        integrante de la Familia Imperial Japonesa, el Príncipe Heredero Akihito y la Princesa Michiko.
+        Este Jardín es un emblema representativo de la relación entre Argentina y Japón.</string>
+    <string name="description_malba">El Museo de Arte Latinoamericano de Buenos Aires (Malba) – Fundación Costantini
+        fue fundado en septiembre de 2001 con el objetivo de coleccionar, preservar, estudiar y difundir el arte latinoamericano desde principios del siglo XX
+        hasta la actualidad.
+        Es una institución privada sin fines de lucro que conserva y exhibe un patrimonio de aproximadamente 400 obras de los principales artistas modernos y contemporáneos de la región.</string>
+    <string name="description_rose_garden_walk">El Rosedal de Palermo, también llamado Paseo del Rosedal,
+        es un tradicional parque ubicado en el barrio de Palermo de la ciudad de Buenos Aires que integra el conjunto conocido
+        como Parque Tres de Febrero.
+        En sus 3,4 hectáreas posee 18.000 rosales y se encuentran emplazadas numerosas obras de arte,
+        entre ellos 26 bustos de poetas y escritores, un puente griego y un patio andaluz.</string>
+    <string name="description_san_telmo">San Telmo (por San Pedro González Telmo) es uno de los barrios más antiguos de la Ciudad de Buenos Aires.
+        Junto con el cercano Monserrat se lo conoce como \"Barrio Sur\", en oposición al \"Barrio Norte\" de San Nicolás.
+        Todavía pueden escucharse ritmos rioplatenses como el tango en sus calles.</string>
+    <string name="description_colon_theater">El Teatro Colón es un teatro de ópera de la ciudad de Buenos Aires.
+        Por su tamaño, acústica​ y trayectoria, está considerado uno de los cinco mejores del mundo.
+        Según una encuesta realizada por el experto en acústica Leo Beranek a destacados directores internacionales de ópera y de orquesta,
+        el Teatro Colón posee la sala con la mejor acústica para ópera y la segunda mejor para conciertos del mundo.</string>
+    <string name="description_zanjon_granados">Túneles y misterio. Un viaje a los orígenes de Buenos Aires.
+        Un espacio mágico donde coexisten la poesía, la historia y el mito. La recuperación arqueológica más importante de la Ciudad.</string>
+    <string name="description_puerto_madero">Puerto Madero es uno de los cuarenta y ocho barrios en los que se divide la Ciudad Autónoma de Buenos Aires (CABA),
+        capital de la República Argentina.
+        Su ubicación cercana a la zona central la ciudad, lo extenso de su área y su vista al río hacen que este distrito sea uno de los más valorados de Buenos Aires.  El barrio debe su nombre a Eduardo Madero, comerciante de Buenos Aires que presentó tres proyectos para la construcción del Puerto de la ciudad, el último de los cuales fue aprobado por el entonces Presidente de la Nación Julio Argentino Roca en 1882.</string>
+    <string name="description_national_museum">El Museo Nacional de Bellas Artes (MNBA) es un museo de arte argentino con sedes en la Ciudad de Buenos Aires y en la ciudad de Neuquén (MNBA Neuquén). Tiene el mayor patrimonio artístico del país y es uno de los principales de América Latina.</string>
+    <string name="night">Noche</string>
+    <string name="phrases">Frases</string>
+    <string name="attractions">Atracciones</string>
+    <string name="description_amerika">Amerika es una discoteca argentina orientada al público LGBT,
+        considerada una de las más grandes de su estilo en la argentina.
+        ​Se ubica en el barrio porteño de Almagro y se la considera uno de los centros bailables más populares para ese tipo de público en la Ciudad de Buenos Aires.
+        Amerika se encuentra ubicada sobre la calle Gascón 1040, en el barrio de Almagro de la ciudad de Buenos Aires.
+        Cuenta con tres pistas bailables: Continental, Caribean y Cristal; y tiene una capacidad para 1866 personas.
+        Funciona solamente los días viernes, sábados y domingos.</string>
+    <string name="description_apple">Apple es la disco mas popular de capital federal, es la única disco que en todas sus noches te asegura la mayor cantidad y calidad en ambiente.
+        La mejor música actualizada, la mejor iluminación moderna y la mejor diversión para vos y tus amigos exigentes.
+        Todas nuestras noches te ofrecemos un programa completo con las mejores fiestas, diferentes eventos, música y ambientación moderna solo para un público selecto y exigente, en busca de noches diferentes.
+        Apple tiene sus puertas abiertas desde el año 2009, y es hasta el día de hoy la disco mas exitosa y exigente del momento en buenos aires,capital federal.</string>
+    <string name="description_barfly">En Barfly Beat las noches tienen un toque del mejor rock y explotan con el cachengue del momento,para que al finde lo arranques bien arriba.
+        Con un onda rocker, este boliche tempranero, te ofrece una propuesta diferente para palpitar el fin de semana.</string>
+    <string name="type_lgbt_night_club">Boliche LGBT</string>
+    <string name="type_night_club">Boliche</string>
+    <string name="description_club_bahrein">Una propuesta de entretenimiento nocturno con nivel internacional. Shows de música nacional e internacional. Excelencia en tragos preparados por nuestros bartenders profesionales. Una arquitectura sorprendente; un sonido increíble; una iluminación super moderna, 3 espacios y una sola idea: ¡Disfrutar de una noche magnífica! Ubicada en pleno corazón del microcentro porteño, en un antiguo edificio bancario de 1904 , Bahrein BA propone en sus 2000 m2 de infraestructura pensada y decorada, experiencias de primer nivel que brindan al público nacional e internacional noches para recordar.</string>
+    <string name="type_neighborhood">Barrio</string>
+    <string name="type_museum">Museo</string>
+    <string name="type_avenue">Avenida</string>
+    <string name="type_cementery">Cementerio</string>
+    <string name="type_garden">Jardín</string>
+    <string name="type_theater">Teatro</string>
+    <string name="description_crobar">Ubicado en el corazón de Palermo, Crobar ofrece espacios diseñados para satisfacer las exigencias del mercado. Crobar se destaca por su ambientación, calidad, cálida y moderna, como por la amplitud y comodidad de sus espacios.</string>
+    <string name="description_esperanto">Esperanto es una disco que desde hace años se posiciona en el ambiente por su variedad de servicios y excelente atención al cliente.
+        En nuestro local de 800 m2 se realizan todo tipo de eventos.
+        Desde cumpleaños y despedidas de solteros, hasta eventos corporativos y de prensa.
+        Una estructura totalmente versátil que permite adaptarnos a cada tipo de evento, con una variedad de menús y cocktails. </string>
+    <string name="description_niceto_club">Desde su inauguración en julio de 1998, Niceto Club inmediatamente se perfiló como el referente musical por excelencia en la zona de Palermo.
+        Hoy en día se encuentra consolidado como el único espacio en la noche porteña capaz de reunir estilos, artistas y públicos tan diversos.
+        Por su escenario y cabina desfilan habitualmente una gran variedad de artistas locales e internacionales, mientras que en sus dos pistas ­ofrece fiestas con orientaciones musicales que incluyen pop, rock, reggae, hip hop, electrónica, tango, soul, funk y más…</string>
+    <string name="description_porto_soho">Porto Soho es un boliche ubicado en Av. Scalabrini Ortiz 1429, entre Honduras y Gorriti. Palermo Soho.
+        Tiene capacidad habilitada para 600 personas. La gran mayoría de la gente que asiste es debido a cumpleaños o fiestas semi-privadas, nuestra intención es que se genere un clima realmente divertido y no haya ningún problema, es por eso que los precios de la entrada y de la barra son accesibles.
+        Local Bailable Clase “C” con capacidad habilitada por el Gobierno para 594 personas.</string>
+    <string name="description_vita">Ubicado en el corazón del barrio porteño de Palermo, VITA nos acerca una propuesta innovadora y distinta en la noche de Buenos Aires.
+        Con la más alta coctelería de autor, la más refinada gastronomía, y un ambiente pensado para el público más selecto y exclusivo, Vita se adecúa a los más altos estándares de exigencia de un público minucioso y perfeccionista.
+        VITA Buenos Aires nace de la inspiración de los más refinados y categóricos restaurantes, bares y discotecas de Nueva York, Londres y Miami, entre los que se destacan por su alto diseño y exclusividad el W Hotel Miami, SLS Hotel Miami, Hudson Hotel NY, Hakkasan restaurant, Cipriani Bar Soho NY y Sanderson Hotel de Londres entre otros.</string>
+    <string name="description_honduras_hollywood">Creamos un espacio con una estructura pensada para eventos sociales, corporativos y personalizados.
+        Además ofrecemos un servicio de restaurante, cockteleria y club social para venir a pasar una noche diferente.</string>
+</resources>
