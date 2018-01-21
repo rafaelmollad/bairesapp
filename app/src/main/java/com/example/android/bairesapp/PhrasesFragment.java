@@ -6,18 +6,11 @@ import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.text.Layout;
-import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
-import android.widget.ImageView;
-import android.widget.LinearLayout;
 import android.widget.ListView;
-import android.widget.RelativeLayout;
-import android.widget.TextView;
 
 import java.util.ArrayList;
 
@@ -102,6 +95,23 @@ public class PhrasesFragment extends Fragment {
         arrayOfObjects.add(new ListItemObject(R.string.no_entiendo, R.string.dont_understand, R.drawable.dont_understand,R.raw.no_entiendo));
         arrayOfObjects.add(new ListItemObject(R.string.perdon, R.string.sorry, R.drawable.sorry,R.raw.perdon));
         arrayOfObjects.add(new ListItemObject(R.string.adios, R.string.goodbye, R.drawable.good_bye,R.raw.adios));
+        arrayOfObjects.add(new ListItemObject(R.string.muchas_gracias, R.string.thank_you_very_much, R.drawable.thank_you_very_much,R.raw.muchas_gracias));
+        arrayOfObjects.add(new ListItemObject(R.string.de_nada, R.string.you_are_welcome, R.drawable.you_are_welcome,R.raw.de_nada));
+        arrayOfObjects.add(new ListItemObject(R.string.mi_nombre_es, R.string.my_name_is, R.drawable.my_name_is,R.raw.me_llamo));
+        arrayOfObjects.add(new ListItemObject(R.string.cuanto_cuesta, R.string.how_much_is_it, R.drawable.how_much_is_it,R.raw.cuanto_cuesta));
+        arrayOfObjects.add(new ListItemObject(R.string.muy_barato, R.string.very_cheap, R.drawable.very_cheap,R.raw.muy_barato));
+        arrayOfObjects.add(new ListItemObject(R.string.muy_caro, R.string.very_expensive, R.drawable.very_expensive,R.raw.es_muy_caro));
+        arrayOfObjects.add(new ListItemObject(R.string.hacer_precio, R.string.lower_the_price, R.drawable.lower_the_price,R.raw.hacerme_precio));
+        arrayOfObjects.add(new ListItemObject(R.string.comprar_este, R.string.buy_this_one, R.drawable.buy_this_one,R.raw.quisiera_comprar_este));
+        arrayOfObjects.add(new ListItemObject(R.string.solo_estoy_mirando, R.string.looking_around, R.drawable.looking_around,R.raw.solo_estoy_mirando));
+        arrayOfObjects.add(new ListItemObject(R.string.a_donde_queda, R.string.where_is, R.drawable.where_is,R.raw.a_donde_queda));
+        arrayOfObjects.add(new ListItemObject(R.string.cerca, R.string.close, R.drawable.close,R.raw.queda_cerca));
+        arrayOfObjects.add(new ListItemObject(R.string.lejos, R.string.far, R.drawable.far,R.raw.queda_lejos));
+        arrayOfObjects.add(new ListItemObject(R.string.que_hora_es, R.string.what_time_is_it, R.drawable.what_time_is_it,R.raw.que_hora_es));
+        arrayOfObjects.add(new ListItemObject(R.string.que_recomendas, R.string.what_can_you_recommend, R.drawable.que_recomendas,R.raw.que_recomendas));
+        arrayOfObjects.add(new ListItemObject(R.string.llama_a_una_ambulancia, R.string.call_an_ambulance, R.drawable.ambulance,R.raw.ambulancia));
+        arrayOfObjects.add(new ListItemObject(R.string.llama_al_911, R.string.call_911, R.drawable.police,R.raw.police));
+        arrayOfObjects.add(new ListItemObject(R.string.a_donde_hay_un_hospital, R.string.where_is_a_hospital, R.drawable.hospital,R.raw.a_donde_hay_un_hospital));
 
         // Instantiate CustomArrayAdapter
         PhrasesArrayAdapter adapter = new PhrasesArrayAdapter(getActivity(), arrayOfObjects, "font/Poppins-Regular.ttf");

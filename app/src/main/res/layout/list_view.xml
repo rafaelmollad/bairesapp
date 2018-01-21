@@ -5,6 +5,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:id="@+id/list"
-    android:divider="@null"
-    android:dividerHeight="0dp">
+    android:divider="#D32F2F"
+    android:dividerHeight="2dp">
 </ListView>

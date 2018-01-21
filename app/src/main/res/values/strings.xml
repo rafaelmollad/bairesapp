@@ -148,4 +148,55 @@
     <!-- Goodbye -->
     <string name="goodbye">Goodbye</string>
     <string name="adios">Adiós</string>
+    <!-- Thank you very much -->
+    <string name="thank_you_very_much">Thank you very much!</string>
+    <string name="muchas_gracias">¡Muchas gracias!</string>
+    <!-- My name is... -->
+    <string name="my_name_is">My name is...</string>
+    <string name="mi_nombre_es">Mi nombre es...</string>
+    <!-- You are welcome -->
+    <string name="you_are_welcome">You are welcome!</string>
+    <string name="de_nada">¡De nada!</string>
+    <!-- How much is it? -->
+    <string name="how_much_is_it">How much is it?</string>
+    <string name="cuanto_cuesta">¿Cuánto cuesta?</string>
+    <!-- It is very cheap -->
+    <string name="very_cheap">It\'s very cheap</string>
+    <string name="muy_barato">Es muy barato</string>
+    <!-- It is very expensive -->
+    <string name="very_expensive">It\'s very expensive</string>
+    <string name="muy_caro">Es muy caro</string>
+    <!-- Can you lower the price? -->
+    <string name="lower_the_price">Can you lower the price?</string>
+    <string name="hacer_precio">¿Podés hacerme precio?</string>
+    <!-- I would like to buy this one -->
+    <string name="buy_this_one">I would like to buy this one</string>
+    <string name="comprar_este">Quisiera comprar este</string>
+    <!-- I'm just looking around -->
+    <string name="looking_around">I\'m just looking around</string>
+    <string name="solo_estoy_mirando">Solo estoy mirando</string>
+    <!-- Where is...? -->
+    <string name="where_is">Where is&#8230;?</string>
+    <string name="a_donde_queda">¿A dónde queda&#8230;?</string>
+    <!-- Is it close? -->
+    <string name="close">Is it close?</string>
+    <string name="cerca">¿Queda cerca?</string>
+    <!-- Is it far? -->
+    <string name="far">Is it far?</string>
+    <string name="lejos">¿Queda lejos?</string>
+    <!-- What time is it? -->
+    <string name="what_time_is_it">What time is it?</string>
+    <string name="que_hora_es">¿Qué hora es?</string>
+    <!-- What can you recommend? -->
+    <string name="what_can_you_recommend">What can you recommend?</string>
+    <string name="que_recomendas">¿Qué recomendás?</string>
+    <!-- Call an ambulance! -->
+    <string name="call_an_ambulance">Call an ambulance!</string>
+    <string name="llama_a_una_ambulancia">¡Llamá a una ambulancia!</string>
+    <!-- Call 911 -->
+    <string name="call_911">Call 911!</string>
+    <string name="llama_al_911">¡Llamá al 911!</string>
+    <!-- Where's a hospital -->
+    <string name="where_is_a_hospital">Where\'s a hospital?</string>
+    <string name="a_donde_hay_un_hospital">¿A dónde hay un hospital?</string>
 </resources>
