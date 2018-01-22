@@ -2,12 +2,13 @@
 <resources>
     <string name="app_name">Baires App</string>
     <string name="name_corrientes">Avenida Corrientes</string>
+    <string name="name_planetarium">Planetario Galileo Galilei</string>
     <string name="name_recoleta_cementery">Cementerio de Recoleta</string>
     <string name="name_japanese_cementery">Jardín Japonés</string>
     <string name="name_rose_garden_walk">Rosedal de Palermo</string>
     <string name="name_colon_theater">Teatro Colón</string>
     <string name="type_la_boca">Barrio</string>
-    <string name="type_palermo">Barrio</string>
+    <string name="type_planetarium">Planetario</string>
     <string name="type_national_museum">Museo</string>
     <string name="type_corrientes_avenue">Avenida</string>
     <string name="type_recoleta_cementery">Cementerio</string>
@@ -19,22 +20,21 @@
     <string name="type_zanjon_granados">Museo</string>
     <string name="type_puerto_madero">Barrio</string>
     <string name="description_la_boca">La Boca es un barrio de Buenos Aires (Capital Federal), en Argentina. Está situado en el límite sudeste de la ciudad. Su nombre se debe a que se ubica en la desembocadura del Riachuelo en el Río de la Plata. Entre otras razones, el barrio es conocido por albergar el famoso estadio de Boca Juniors, \"La Bombonera\".</string>
-    <string name="description_palermo">Palermo es uno de los 48 barrios en los que se encuentra dividida la Ciudad Autónoma de Buenos Aires.
-        Es un barrio fundamentalmente residencial y de esparcimiento.
-        Gran parte de su extensión está ocupada por los denominados Bosques de Palermo, que incluyen una sumatoria de varios parques y espacios verdes.
-        También es un importante polo gastronómico, cultural y audiovisual. Dado el dinamismo del barrio, existen varios \"sub-barrios\" no oficiales
-        determinados por el tipo de actividad que se realiza en esa zona.
-        Las denominaciones están dadas por el uso cotidiano, e incluyen -a modo de ejemplo- a Palermo Soho (polo gastronómico/cultural)
-        y Palermo Hollywood (polo audivisual).
-        Asimismo, su edificación se destaca por la combinación de los estilos gótico y barroco, y es uno de los principales focos de turismo de la Ciudad.</string>
+    <string name="description_planetarium">El Planetario Galileo Galilei está ubicado en la intersección de Avenida General Sarmiento y Belisario Roldán, dentro del Parque Tres de Febrero, en el barrio de Palermo, en la ciudad de Buenos Aires, Argentina.
+        Su cúpula tiene 20 m de diámetro. Sobre ella pueden llegar a reproducirse 8900 estrellas fijas, constelaciones y nebulosas.
+        El edificio consta de cinco pisos, seis escaleras (una helicoidal) y una sala circular de 20 metros de diámetro.
+        Cuenta con unos cien proyectores. Constaba de un armazón cilíndrico con proyectores independientes para la Luna, el Sol y los planetas visibles a simple vista -Mercurio, Venus, Marte, Júpiter y Saturno-, y dos esferas en los extremos que proyectaban las estrellas.
+        Un sistema de proyectores y equipos láser dirigidos a esa cúpula brindaban diversos espectáculos sobre la conformación del universo, con la exhibición de 8.900 estrellas fijas, constelaciones y nebulosas.
+        Incluido el proyector planetario Zeiss Mark V de 5 metros de altura y 2,5 toneladas de peso, un sector de la Sala de Espectáculos posee un aro magnético para amplificar el sonido y facilita la audición (mediante el uso de los audífonos) de los hipoacúsicos.
+    </string>
     <string name="description_corrientes_avenue">La avenida Corrientes es el eje de la vida nocturna y bohemia de la Ciudad de Buenos Aires.
         En sus bares y teatros se acuñó el tango, y a lo largo de su historia lo interpretaron en ellos las grandes orquestas y cantores,
         entre ellos el ídolo popular Carlos Gardel, quien vivió a su vera.
         Sus desaparecidos teatros Politeama Argentino, Apolo, Odeón y el viejo Ópera, fueron escenario de los más altos exponentes de la lírica mundial,
         así como del nacimiento del considerado teatro nacional: el drama gauchesco Juan Moreira.</string>
     <string name="description_recoleta_cemenetery">El Cementerio de la Recoleta es un famoso cementerio ubicado en el distinguido barrio de la Recoleta de
-        la Ciudad Autónoma de Buenos Aires, Argentina, diseñado por Próspero Catelin1​ y en donde se encuentran sepultadas el mayor número de personalidades del país.</string>
-    <string name="description_japanese_garden">El Jardín japonés de Buenos Aires es un jardín japonés argentino ubicado en el Parque Tres de Febrero del barrio de Palermo,
+        la Ciudad Autónoma de Buenos Aires, Argentina, diseñado por Próspero Catelin​ y en donde se encuentran sepultadas el mayor número de personalidades del país.</string>
+    <string name="description_japanese_garden">El Jardín japonés es un jardín ubicado en el Parque Tres de Febrero del barrio de Palermo,
         ciudad de Buenos Aires.
         Se construyó con el aporte y esfuerzo de la Colectividad Japonesa en el año 1967, como testimonio de la primera visita a la Argentina de un
         integrante de la Familia Imperial Japonesa, el Príncipe Heredero Akihito y la Princesa Michiko.
@@ -59,7 +59,7 @@
         Un espacio mágico donde coexisten la poesía, la historia y el mito. La recuperación arqueológica más importante de la Ciudad.</string>
     <string name="description_puerto_madero">Puerto Madero es uno de los cuarenta y ocho barrios en los que se divide la Ciudad Autónoma de Buenos Aires (CABA),
         capital de la República Argentina.
-        Su ubicación cercana a la zona central la ciudad, lo extenso de su área y su vista al río hacen que este distrito sea uno de los más valorados de Buenos Aires.  El barrio debe su nombre a Eduardo Madero, comerciante de Buenos Aires que presentó tres proyectos para la construcción del Puerto de la ciudad, el último de los cuales fue aprobado por el entonces Presidente de la Nación Julio Argentino Roca en 1882.</string>
+        Su ubicación cercana a la zona central de la ciudad, lo extenso de su área y su vista al río hacen que este distrito sea uno de los más valorados de Buenos Aires.  El barrio debe su nombre a Eduardo Madero, comerciante de Buenos Aires que presentó tres proyectos para la construcción del Puerto de la ciudad, el último de los cuales fue aprobado por el entonces Presidente de la Nación Julio Argentino Roca en 1882.</string>
     <string name="description_national_museum">El Museo Nacional de Bellas Artes (MNBA) es un museo de arte argentino con sedes en la Ciudad de Buenos Aires y en la ciudad de Neuquén (MNBA Neuquén). Tiene el mayor patrimonio artístico del país y es uno de los principales de América Latina.</string>
     <string name="night">Noche</string>
     <string name="phrases">Frases</string>
@@ -68,7 +68,7 @@
         considerada una de las más grandes de su estilo en la argentina.
         ​Se ubica en el barrio porteño de Almagro y se la considera uno de los centros bailables más populares para ese tipo de público en la Ciudad de Buenos Aires.
         Amerika se encuentra ubicada sobre la calle Gascón 1040, en el barrio de Almagro de la ciudad de Buenos Aires.
-        Cuenta con tres pistas bailables: Continental, Caribean y Cristal; y tiene una capacidad para 1866 personas.
+        Cuenta con tres pistas bailables: Continental, Caribean y Cristal y tiene una capacidad para 1866 personas.
         Funciona solamente los días viernes, sábados y domingos.</string>
     <string name="description_apple">Apple es la disco mas popular de capital federal, es la única disco que en todas sus noches te asegura la mayor cantidad y calidad en ambiente.
         La mejor música actualizada, la mejor iluminación moderna y la mejor diversión para vos y tus amigos exigentes.
@@ -85,7 +85,7 @@
     <string name="type_cementery">Cementerio</string>
     <string name="type_garden">Jardín</string>
     <string name="type_theater">Teatro</string>
-    <string name="description_crobar">Ubicado en el corazón de Palermo, Crobar ofrece espacios diseñados para satisfacer las exigencias del mercado. Crobar se destaca por su ambientación, calidad, cálida y moderna, como por la amplitud y comodidad de sus espacios.</string>
+    <string name="description_crobar">Ubicado en el corazón de Palermo, Crobar ofrece espacios diseñados para satisfacer las exigencias del mercado. Crobar se destaca por su modernidad, ambientación y calidad, como por la amplitud y comodidad de sus espacios.</string>
     <string name="description_esperanto">Esperanto es una disco que desde hace años se posiciona en el ambiente por su variedad de servicios y excelente atención al cliente.
         En nuestro local de 800 m2 se realizan todo tipo de eventos.
         Desde cumpleaños y despedidas de solteros, hasta eventos corporativos y de prensa.

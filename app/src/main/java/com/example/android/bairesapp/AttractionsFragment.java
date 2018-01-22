@@ -5,6 +5,8 @@ import android.content.Intent;
 import android.graphics.Typeface;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.v4.graphics.drawable.RoundedBitmapDrawable;
+import android.support.v4.graphics.drawable.RoundedBitmapDrawableFactory;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -24,7 +26,6 @@ public class AttractionsFragment extends Fragment {
     public AttractionsFragment() {
         // Required empty public constructor
     }
-
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -68,7 +69,7 @@ public class AttractionsFragment extends Fragment {
 
         // Populate arrayList
         arrayOfObjects.add(new ListItemObject(R.string.name_la_boca, R.drawable.laboca, R.string.type_neighborhood, R.string.description_la_boca, "geo:0,0?q=La boca, Buenos Aires, Argentina"));
-        arrayOfObjects.add(new ListItemObject(R.string.name_palermo, R.drawable.palermo, R.string.type_neighborhood, R.string.description_palermo, "geo:0,0?q=Palermo, Buenos Aires, Argentina"));
+        arrayOfObjects.add(new ListItemObject(R.string.name_planetarium, R.drawable.planetario, R.string.type_planetarium, R.string.description_planetarium, "geo:0,0?q=Planetario Galileo Galilei, Buenos Aires, Argentina"));
         arrayOfObjects.add(new ListItemObject(R.string.name_national_museum, R.drawable.museobellasartes, R.string.type_museum, R.string.description_national_museum, "geo:0,0?q=Museo nacional de bellas artes, Buenos Aires, Argentina"));
         arrayOfObjects.add(new ListItemObject(R.string.name_corrientes, R.drawable.avenidacorrientes, R.string.type_avenue, R.string.description_corrientes_avenue, "geo:0,0?q=Av. Corrientes, Buenos Aires, Argentina"));
         arrayOfObjects.add(new ListItemObject(R.string.name_recoleta_cementery, R.drawable.cementeriorecoleta, R.string.type_cementery, R.string.description_recoleta_cemenetery, "geo:0,0?q=Cementerio de la recoleta, Buenos Aires, Argentina"));

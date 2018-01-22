@@ -3,7 +3,8 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:padding="10dp">
+    android:padding="10dp"
+    android:background="#EEEEEE">
 
     <ImageView
         android:id="@+id/left_icon"
@@ -13,6 +14,7 @@
         android:layout_alignParentStart="true"
         android:minHeight="68dp"
         android:minWidth="68dp"
+        android:layout_centerVertical="true"
         android:src="@drawable/ic_android_black_48px" />
 
     <LinearLayout
@@ -33,6 +35,7 @@
             android:layout_gravity="center"
             android:textAlignment="center"
             android:textSize="18sp"
+            android:textColor="#212121"
             android:text="Where's the bathroom?"/>
 
         <TextView
@@ -50,6 +53,7 @@
         android:layout_height="wrap_content"
         android:minWidth="68dp"
         android:minHeight="68dp"
+        android:layout_centerVertical="true"
         android:id="@+id/play_icon"
         android:src="@drawable/ic_play_circle_filled_black_48px"
         android:layout_alignParentRight="true"

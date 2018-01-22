@@ -15,7 +15,7 @@
     <!-- Place name for La boca -->
     <string name="name_la_boca">La Boca</string>
     <!-- Place name for Palermo -->
-    <string name="name_palermo">Palermo</string>
+    <string name="name_planetarium">Planetarium</string>
     <!-- Place name for The National Museum of Fine Arts-->
     <string name="name_national_museum">MNBA</string>
     <!-- Place name for Corrientes Avenue -->
@@ -43,11 +43,15 @@
     <string name="type_cementery">Cementery</string>
     <string name="type_garden">Garden</string>
     <string name="type_theater">Theater</string>
+    <string name="type_planetarium">Planetarium</string>
     <!-- DESCRIPTION OF EACH PLACE -->
     <string name="description_la_boca">La Boca is a neighborhood, or barrio of the Argentine capital, Buenos Aires.
         It retains a strong European flavour, with many of its early settlers being from the Italian city of Genoa.</string>
-    <string name="description_palermo">Palermo is a neighborhood, or barrio of the Argentine capital, Buenos Aires. It is located in the northeast of the city.
-        It is the largest neighborhood in Buenos Aires.
+    <string name="description_planetarium">The Galileo Galilei planetarium, commonly known as Planetario, is located in Parque Tres de Febrero in the Palermo district of Buenos Aires,Argentina.
+        The building has five floors, six staircases and a 20 metres (66 ft) diameter room with 360 seats. The inside of the 20m semispherical dome is covered with reflective aluminium.
+        The planetarium (Zeiss projector Model M V) itself is located in the centre, it has over 100 projectors and is approximately 5 metres (16 ft) in height and 2.5 tons in weight.
+        It consists of a cylindrical framework with independent projectors for the Moon, the Sun and the visible planets (Mercury, Venus, Mars, Jupiter and Saturn)
+        and two spheres in the extremes that project 8,900 stars, constellations and nebulas.
     </string>
     <string name="description_national_museum">El Museo Nacional de Bellas Artes (MNBA)
         ("National Museum of Fine Arts") is an Argentine art museum in Buenos Aires, located in the Recoleta section of the city</string>
@@ -152,8 +156,8 @@
     <string name="thank_you_very_much">Thank you very much!</string>
     <string name="muchas_gracias">¡Muchas gracias!</string>
     <!-- My name is... -->
-    <string name="my_name_is">My name is...</string>
-    <string name="mi_nombre_es">Mi nombre es...</string>
+    <string name="my_name_is">My name is&#8230;</string>
+    <string name="mi_nombre_es">Me llamo&#8230;</string>
     <!-- You are welcome -->
     <string name="you_are_welcome">You are welcome!</string>
     <string name="de_nada">¡De nada!</string>
@@ -185,8 +189,8 @@
     <string name="far">Is it far?</string>
     <string name="lejos">¿Queda lejos?</string>
     <!-- What time is it? -->
-    <string name="what_time_is_it">What time is it?</string>
-    <string name="que_hora_es">¿Qué hora es?</string>
+    <string name="what_time_is_it">Can you tell me what time it is?</string>
+    <string name="que_hora_es">¿Podés decirme la hora?</string>
     <!-- What can you recommend? -->
     <string name="what_can_you_recommend">What can you recommend?</string>
     <string name="que_recomendas">¿Qué recomendás?</string>
@@ -199,4 +203,25 @@
     <!-- Where's a hospital -->
     <string name="where_is_a_hospital">Where\'s a hospital?</string>
     <string name="a_donde_hay_un_hospital">¿A dónde hay un hospital?</string>
+    <!-- I don't feel very good -->
+    <string name="i_dont_feel_very_good">I don\'t feel very good</string>
+    <string name="no_me_siento_muy_bien">No me siento muy bien</string>
+    <!-- Where can I find the restrooms? -->
+    <string name="find_the_restrooms">Where can I find the restrooms?</string>
+    <string name="encontrar_los_baños">¿A dónde quedan los baños?</string>
+    <!-- Help! -->
+    <string name="help">Help!</string>
+    <string name="ayuda">¡Ayuda!</string>
+    <!-- I'm lost -->
+    <string name="im_lost">I\'m lost</string>
+    <string name="me_he_perdido">Me he perdido</string>
+    <!-- Do you speak English? -->
+    <string name="do_you_speak_english">Do you speak English?</string>
+    <string name="hablas_ingles">¿Hablás inglés?</string>
+    <!-- I'm looking for a hotel -->
+    <string name="im_looking_for_a_hotel">I\'m looking for a hotel</string>
+    <string name="estoy_buscando_un_hotel">Busco un hotel</string>
+    <!-- Where's lostange? -->
+    <string name="wheres_an_exchange">Where\'s an exchange?</string>
+    <string name="casa_de_cambio">¿A dónde hay una casa de cambio?</string>
 </resources>

@@ -74,13 +74,13 @@ public class PhrasesFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-        View rootView = inflater.inflate(R.layout.list_view, container, false);
+        View rootView = inflater.inflate(R.layout.phrases_list_view, container, false);
 
         // Create and setup the {@link AudioManager} to request audio focus
         mAudioManager = (AudioManager) getActivity().getSystemService(Context.AUDIO_SERVICE);
 
         // Get listView reference
-        final ListView listView = (ListView) rootView.findViewById(R.id.list);
+        final ListView listView = (ListView) rootView.findViewById(R.id.phrases_list_view);
 
 
         // Create arrayList containing objects instances from ListItemObject.java
@@ -107,11 +107,18 @@ public class PhrasesFragment extends Fragment {
         arrayOfObjects.add(new ListItemObject(R.string.a_donde_queda, R.string.where_is, R.drawable.where_is,R.raw.a_donde_queda));
         arrayOfObjects.add(new ListItemObject(R.string.cerca, R.string.close, R.drawable.close,R.raw.queda_cerca));
         arrayOfObjects.add(new ListItemObject(R.string.lejos, R.string.far, R.drawable.far,R.raw.queda_lejos));
-        arrayOfObjects.add(new ListItemObject(R.string.que_hora_es, R.string.what_time_is_it, R.drawable.what_time_is_it,R.raw.que_hora_es));
+        arrayOfObjects.add(new ListItemObject(R.string.que_hora_es, R.string.what_time_is_it, R.drawable.what_time_is_it,R.raw.hora));
         arrayOfObjects.add(new ListItemObject(R.string.que_recomendas, R.string.what_can_you_recommend, R.drawable.que_recomendas,R.raw.que_recomendas));
         arrayOfObjects.add(new ListItemObject(R.string.llama_a_una_ambulancia, R.string.call_an_ambulance, R.drawable.ambulance,R.raw.ambulancia));
         arrayOfObjects.add(new ListItemObject(R.string.llama_al_911, R.string.call_911, R.drawable.police,R.raw.police));
         arrayOfObjects.add(new ListItemObject(R.string.a_donde_hay_un_hospital, R.string.where_is_a_hospital, R.drawable.hospital,R.raw.a_donde_hay_un_hospital));
+        arrayOfObjects.add(new ListItemObject(R.string.no_me_siento_muy_bien, R.string.i_dont_feel_very_good, R.drawable.i_dont_feel_very_good,R.raw.no_me_siento_muy_bien));
+        arrayOfObjects.add(new ListItemObject(R.string.encontrar_los_baños, R.string.find_the_restrooms, R.drawable.find_the_restroooms,R.raw.a_donde_quedan_los_banos));
+        arrayOfObjects.add(new ListItemObject(R.string.ayuda, R.string.help, R.drawable.help,R.raw.ayuda));
+        arrayOfObjects.add(new ListItemObject(R.string.me_he_perdido, R.string.im_lost, R.drawable.lost,R.raw.me_he_perdido));
+        arrayOfObjects.add(new ListItemObject(R.string.hablas_ingles, R.string.do_you_speak_english, R.drawable.english,R.raw.hablas_ingles));
+        arrayOfObjects.add(new ListItemObject(R.string.estoy_buscando_un_hotel, R.string.im_looking_for_a_hotel, R.drawable.hotel,R.raw.busco_un_hotel));
+        arrayOfObjects.add(new ListItemObject(R.string.casa_de_cambio, R.string.wheres_an_exchange, R.drawable.exchange,R.raw.casa_de_cambio));
 
         // Instantiate CustomArrayAdapter
         PhrasesArrayAdapter adapter = new PhrasesArrayAdapter(getActivity(), arrayOfObjects, "font/Poppins-Regular.ttf");

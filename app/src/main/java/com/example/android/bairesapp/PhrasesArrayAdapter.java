@@ -46,6 +46,9 @@ public class PhrasesArrayAdapter extends ArrayAdapter<ListItemObject> {
         englishPhrase.setText(currentItem.getEnglishText());
         spanishPhrase.setText(currentItem.getSpanishText());
 
+        // Change font to Poppins
+        englishPhrase.setTypeface(tf);
+        spanishPhrase.setTypeface(tf);
 
         // Return the completed view to render on screen
         return convertView;
